@@ -1,0 +1,4 @@
+C:\Users\guthe\Documents\elte\oktalk2\modell\modell\bin\Release\modell.exe
+C:\Users\guthe\Documents\elte\oktalk2\modell\modell\bin\Release\modell.pdb
+C:\Users\guthe\Documents\elte\oktalk2\modell\modell\obj\x86\Release\modell.exe
+C:\Users\guthe\Documents\elte\oktalk2\modell\modell\obj\x86\Release\modell.pdb
